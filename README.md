@@ -4,6 +4,16 @@
 
 Este proyecto entrena y evalúa dos modelos de redes neuronales convolucionales (CNN) para la clasificación de imágenes en seis categorías: bosques, calles, montañas, edificios, mares y glaciares, utilizando el dataset Intel Image Classification. El propósito es comparar el rendimiento de dos optimizadores: Adam y SGD, y analizar su desempeño en términos de precisión y pérdida tanto en el conjunto de entrenamiento como en el conjunto de validación.
 
+## Descarga de la base de datos
+
+La base de datos utilizada en este proyecto es el conjunto de datos de **Intel Image Classification** disponible en Kaggle. Debido al tamaño considerable de la base de datos, no es posible incluirla directamente en el repositorio. 
+
+Puedes descargarla desde el siguiente enlace de Kaggle:
+
+[Descargar Intel Image Classification en Kaggle](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)
+
+Una vez descargada, asegúrate de descomprimir el archivo y redimensionar las imágenes a 64x64 píxeles utilizando el código proporcionado en el proyecto.
+
 ## Requisitos
 
  - Python 3.x
