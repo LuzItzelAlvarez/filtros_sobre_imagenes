@@ -1,4 +1,4 @@
-# Clasificación de Imágenes con Redes Neuronales Convolucionales (CNN)
+# Clasificación de imágenes con CNN usando optimizadores Adam y SGD en la base Intel Image Classification.
 
 ## Descripción
 
