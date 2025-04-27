@@ -24,3 +24,7 @@ Durante el entrenamiento, se utilizaron dos optimizadores: Adam y SGD. Los resul
 ### Resultados del Modelo SGD:
  - Precisión de Entrenamiento: 85.17%
  - Precisión de Validación: 67.20%
+
+## Conclusiones:
+
+El optimizador Adam superó al optimizador SGD en términos de precisión tanto en el conjunto de entrenamiento como en el de validación. Aunque el modelo con SGD presentó un desempeño competitivo, el modelo con Adam logró una convergencia más rápida y una mayor precisión en general.
